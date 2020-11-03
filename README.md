@@ -6,3 +6,5 @@ Está é uma página desenvolvida como parte de um trabalho de faculdade, até e
 Todos os direitos estão reservados à ©BRAVEMAN RECORDS.
 
 O site oficial da banda é: http://www.deluhi.com/
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ericktatsui/deluhi/blob/master/LICENSE)
